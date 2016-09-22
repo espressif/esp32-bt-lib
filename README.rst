@@ -1,4 +1,4 @@
-ESP32 WiFi Stack Libraries
+ESP32 BT/BLE Stack Libraries
 ====================
 
 This repository contains binary libraries supporting the ESP32 RF subsystems. It is used as a submodule within `Espressif IoT Development Framework`_ (ESP-IDF).
